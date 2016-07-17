@@ -211,6 +211,7 @@
 
     </div></div> <!-- /.section, /#content -->
 
+
     <?php /* remove printing sidebar
       if ($page['sidebar_second']): ?>
       <div id="sidebar-second" class="column sidebar"><div class="section">
