@@ -217,7 +217,7 @@
         <?php print render($page['sidebar_second']); ?>
       </div></div> <!-- /.section, /#sidebar-second -->
     <?php endif; */
-    ?>
+    ?> 
 
   </div></div> <!-- /#main, /#main-wrapper -->
 
