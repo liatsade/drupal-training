@@ -211,13 +211,14 @@
 
     </div></div> <!-- /.section, /#content -->
 
+
     <?php /* remove printing sidebar
       if ($page['sidebar_second']): ?>
       <div id="sidebar-second" class="column sidebar"><div class="section">
         <?php print render($page['sidebar_second']); ?>
       </div></div> <!-- /.section, /#sidebar-second -->
     <?php endif; */
-    ?> 
+    ?>
 
   </div></div> <!-- /#main, /#main-wrapper -->
 
