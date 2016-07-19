@@ -202,7 +202,6 @@
       <?php print $feed_icons; ?>
 
     </div></div> <!-- /.section, /#content -->
-
   </div></div> <!-- /#main, /#main-wrapper -->
 
   <?php if ($page['triptych_first'] || $page['triptych_middle'] || $page['triptych_last']): ?>
